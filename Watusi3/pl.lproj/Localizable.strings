@@ -472,7 +472,7 @@
 
 /* Media */
 
-"MEDIA_LABEL" = "Głoska bezdźwięczna";
+"MEDIA_LABEL" = "Media";
 
 "SHARE_SHEET_DESC" = "Dodaj więcej opcji do arkusza udostępniania multimediów WhatsApp, takich jak wysyłanie najnowszego zdjęcia z aparatu, udostępnianie muzyki, blokowanie/odblokowywanie kontaktu.";
 "SHARE_SHEET_LABEL" = "Udostępnianie arkusza";
@@ -521,8 +521,8 @@
 "SAVE_VIEW_ONCE_MEDIA_LABEL" = "Zapisz widok raz multimediów";
 "SAVE_VIEW_ONCE_MEDIA_DESC" = "Dodaje przycisk zapisu na dole widoku multimediów, umożliwiający jednokrotne obejrzenie multimediów";
 
-"BLOCK" = "Blok";
-"UNBLOCK" = "Odblokować";
+"BLOCK" = "Blokuj";
+"UNBLOCK" = "Odblokuj";
 "BLOCK_CONTACT" = "Zablokuj kontakt";
 "UNBLOCK_CONTACT" = "Odblokuj kontakt";
 "BLOCK_CONTACT_MESSAGE" = "Kliknij „Zablokuj”, aby przestać otrzymywać wiadomości od kontaktu.";
@@ -645,7 +645,7 @@
 
 /* Theme */
 
-"THEME_LABEL" = "Temat";
+"THEME_LABEL" = "Motyw";
 
 "CREATE_NEW_THEME_ACTION_BUTTON" = "Utwórz nowy motyw";
 "IMPORT_NEW_THEME_ACTION_BUTTON" = "Importuj motyw z plików";
@@ -663,7 +663,7 @@
 "EDIT_THEME" = "Edytuj motyw";
 "THEME_NAME" = "Nazwa motywu";
 
-"THEME_GENERAL_SECTION_TITLE" = "Ogólny";
+"THEME_GENERAL_SECTION_TITLE" = "Ogólne";
 "APP_TINTCOLOR_LABEL" = "Kolor odcienia aplikacji";
 "DARK_MODE_LABEL" = "Tryb ciemny";
 "DARK_MODE_ENABLE_LABEL" = "Włącz tryb ciemny";
@@ -710,7 +710,7 @@
 "REVOKED_INDICATOR_COLOR_LABEL" = "Unieważniony kolor wskaźnika";
 "REVOKED_INDICATOR_COLOR_DESC" = "Ikona Watusi obok odwołanych wiadomości";
 
-"THEME_TABLES_SECTION_TITLE" = "Stoły";
+"THEME_TABLES_SECTION_TITLE" = "Tło";
 "TABLES_GROUPED_BACKGROUND_COLOR_LABEL" = "Zgrupowany kolor tła";
 "TABLES_SEPARATORS_LABEL" = "Separatory";
 "SEPARATOR_COLOR_LABEL" = "Kolor separatora";
@@ -719,7 +719,7 @@
 
 /* Hide Chats */
 
-"ENABLE_HIDE_CHATS" = "Włączać";
+"ENABLE_HIDE_CHATS" = "Włącz";
 "HIDE_CHATS_LABEL" = "Ukryj czaty";
 "HIDE_CHATS_DESC" = "Ukryte czaty zostaną ukryte na liście czatów i pokażą pusty czat, gdy otworzysz go z innego miejsca. Na tej stronie możesz przeglądać tylko ukryte wiadomości czatu.";
 "HIDDEN_CHATS" = "Ukryte czaty";
@@ -740,13 +740,13 @@
 /* Auto Reply */
 
 "AUTO_REPLY_LABEL" = "Automatyczna odpowiedź";
-"AUTO_REPLY_ENABLE_LABEL" = "Włączać";
+"AUTO_REPLY_ENABLE_LABEL" = "Włączony";
 "AUTO_REPLY_DESC" = "Gdy ta opcja jest włączona, za każdym razem, gdy otrzymasz wiadomość z czatu, Watusi przejrzy włączone automatyczne odpowiedzi, aby znaleźć dopasowania. Można wysłać jedną lub więcej odpowiedzi automatycznych, jeśli ich konfiguracja odpowiada przychodzącej wiadomości/nadawcy.";
 "AUTO_REPLY_SIDELOAD_NOTE" = "UWAGA: Automatyczna odpowiedź nie będzie działać poprawnie, jeśli WhatsApp nie jest otwarty na urządzeniach, na których nie wykonano jailbreaka";
 
 "AUTO_REPLY_LIST_TITLE" = "Automatyczne odpowiedzi";
 
-"AUTO_REPLY_CONFIGURATION_VALUE_ON" = "NA";
+"AUTO_REPLY_CONFIGURATION_VALUE_ON" = "WLĄCZONY";
 "AUTO_REPLY_CONFIGURATION_VALUE_OFF" = "WYŁĄCZONY";
 
 "AUTO_REPLY_EDIT_NAME_HEADER" = "Nazwa";
@@ -849,7 +849,7 @@
 /* Scheduled Messages */
 
 "MESSAGE_SCHEDULER_LABEL" = "Harmonogram wiadomości";
-"MESSAGE_SCHEDULER_ENABLE_LABEL" = "Włączać";
+"MESSAGE_SCHEDULER_ENABLE_LABEL" = "Włączony";
 
 "MESSAGE_SCHEDULER_MESSAGES_DESC" = "Przeglądaj i twórz zaplanowane wiadomości";
 "MESSAGE_SCHEDULER_MESSAGES_LABEL" = "Zaplanowane wiadomości";
@@ -878,8 +878,8 @@
 /* Contacts Spoofing */
 
 "CONTACTS_SPOOFING_LABEL" = "Fałszowanie kontaktów";
-"CONTACTS_SPOOFING_ENABLE_LABEL" = "Włączać";
-"CONTACTS_SPOOFING_CONTACTS" = "Łączność";
+"CONTACTS_SPOOFING_ENABLE_LABEL" = "Włączone";
+"CONTACTS_SPOOFING_CONTACTS" = "Kontakty";
 "CONTACTS_SPOOFING_ADD_CONTACT" = "Dodaj kontakt";
 "CONTACTS_SPOOFING_NAME_HEADER" = "Nazwa";
 "CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER" = "Zdjęcie profilowe";
@@ -897,7 +897,7 @@
 
 "STICKER_PACKS_PAGE_TITLE" = "Pakiety naklejek";
 "STICKER_PACKS_DEFAULT_TAB" = "Domyślny";
-"STICKER_PACKS_CUSTOM_TAB" = "Zwyczaj";
+"STICKER_PACKS_CUSTOM_TAB" = "Niestandardowy";
 "LOADING_STICKER_PACKS_LABEL" = "Ładowanie pakietów naklejek...";
 "STICKERS_NO_STICKERS_TITLE" = "Brak naklejek";
 "STICKERS_CREATE_STICKER_PACK_MESSAGE" = "Możesz tworzyć własne pakiety naklejek,\nużywając przycisku + w prawym górnym rogu";
@@ -981,8 +981,8 @@
 
 /* Developer Section */
 
-"DEVELOPER_SECTION_HEADER" = "Wywoływacz";
-"CONTRIBUTE_LABEL" = "Brać w czymś udział";
+"DEVELOPER_SECTION_HEADER" = "Developer";
+"CONTRIBUTE_LABEL" = "Współtwórcy";
 
 
 /* Support Section */
@@ -1004,7 +1004,7 @@
 "PURCHASE_WATUSI_LICENSE_BUTTON" = "Kup licencję Watusi";
 "TWEET_FOR_2_DAYS_AD_FREE_BUTTON" = "Tweetuj przez 2 dni bez reklam";
 "LOGIN_TO_PURCHASE_MESSAGE" = "Aby kupić Watusi, musisz zalogować się na swoje konto.";
-"LOADING" = "Załadunek...";
+"LOADING" = "Ładowanie...";
 
 "MORE_TWEAKS_TITLE" = "Więcej poprawek";
 "MORE_TWEAKS_DESC" = "Te poprawki są oddzielone od Watusi, ale połączone w jednym IPA dla urządzeń, które nie zostały poddane jailbreakowi.\n\nKażde ulepszenie może wymagać określonej licencji w celu aktywacji lub usunięcia reklam.";
